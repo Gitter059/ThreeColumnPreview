@@ -20,6 +20,9 @@ body {
   background-color: hsl(0, 0%, 95%);
 }
 
+h1 {
+  color: hsl(0, 0%, 95%);
+}
 .container {
   display: flex;
   justify-content: center;
