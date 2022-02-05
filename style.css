@@ -117,12 +117,3 @@ button {
   background-color: hsl(179, 100%, 13%);
   color: white;
 }
-
-footer .attribution {
-  grid-area: footer;
-  align-self: end;
-  font-size: 11px;
-}
-footer .attribution a {
-  color: hsl(228, 45%, 44%);
-}
